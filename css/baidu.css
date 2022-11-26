@@ -4,12 +4,13 @@ body {
 
 .main-container {
     padding: 16px;
-    background-color: aqua;
+    /* background-color: aqua; */
+
 }
 
 .main-navgation {
-    padding: 24px;
-    background-color: antiquewhite;
+    padding: 16px;
+    /* background-color: antiquewhite; */
     le
 }
 
@@ -58,4 +59,26 @@ body {
 
 .nav-link {
     text-decoration: none;
+    color: black;
+    margin: 10px;
+    font-size: 13px;
+}
+
+.main-navgation-button {
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #4e6ef2;
+    color: #fff;
+    font-size: 17px;
+    border: none;
+
+}
+
+.right {
+    float: right;
+
+}
+
+.left {
+    float: left;
 }
