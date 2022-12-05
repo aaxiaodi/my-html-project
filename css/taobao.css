@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+}
+
+.main-navgation {
+    margin: 0 auto;
+    height: 30px;
+    background: #f5f5f5;
+    -webkit-backface-visibility: hidden;
+    padding: 6px;
+
+
+
+
+}
+
+.left {
+    /* background-color: antiquewhite; */
+    margin-left: 170px;
+    width: 400px;
+    height: 30px;
+    display: inline-block;
+    line-height: 25px;
+
+}
+
+.right {
+    /* background-color: antiquewhite; */
+    float: right;
+    width: 700px;
+    height: 30px;
+    display: inline-block;
+    margin-right: 30px;
+    line-height: 25px;
+
+}
+
+
+
+.main-content {
+    padding-top: 24px;
+    height: 97px;
+    background-color: aliceblue;
+}
+
+
+
+
+
+.h {
+    color: red;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+.main-navgation-1 {
+    font-size: 13px;
+    margin: 8px;
+
+
+
+
+}
+
+
+.main-navgation-2 {
+    font-size: 13px;
+    font-weight: normal;
+    margin: 10px;
+
+
+
+}
+
+.h1 {
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+    font-weight: normal;
+}
+
+
+.left-2 {
+    /* background-color: bisque; */
+    display: inline-block;
+    width: 142px;
+    font-size: 33px;
+    margin-left: 270px;
+    line-height: 40px;
+    color: orangered;
+    float: left;
+
+
+}
+
+/* .main-content-search-container {
+    font-size: 0;
+
+} */
+
+.main-content-search-text {
+    border: 2px solid red;
+    vertical-align: middle;
+    height: 40px;
+    width: 714px;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 30px;
+
+}
+
+.main-content-search-button {
+    height: 34px;
+    width: 72px;
+    border: none;
+    color: red;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: -83px;
+    padding-bottom: 10px;
+}
+
+.left-3 {
+    /* background-color: bisque; */
+    color: orangered;
+    font-size: 20px;
+    line-height: 15px;
+
+}
+
+.main-content-search-containe-imgs-taobao {
+    width: 62px;
+    height: 62px;
+    margin-left: 60;
+    vertical-align: middle;
+}
+
+.left-4 {
+    font-size: 13px;
+    margin: 7px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
